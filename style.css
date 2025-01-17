@@ -20,6 +20,10 @@ body {
     text-align: center;
     background: linear-gradient(135deg, #63d166, #6f4576);
 }
+.weather-txt{
+    margin-bottom: 20px;
+    font-size: 28px;
+}
 
 .search {
     width: 100%;
